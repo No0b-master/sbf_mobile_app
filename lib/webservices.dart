@@ -1,9 +1,9 @@
 class Webservices{
   // static const String HOST_URL = "http://15.206.203.176:3000";
-  static const String HOST_URL = "http://10.0.2.2:3333/api";
+  // static const String HOST_URL = "http://10.0.2.2:3333/api";
   // static const String FilePath = "http://10.0.2.2:8080/uploads";
 
-  // static const String HOST_URL = "https://sbfapi.welkdock.com/api";
+  static const String HOST_URL = "https://sbfapi.welkdock.com/api";
 
   static const String login =  "$HOST_URL/auth/login";
   static const String register =  "$HOST_URL/auth/register";

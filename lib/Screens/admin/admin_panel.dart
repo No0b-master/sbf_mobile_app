@@ -241,10 +241,10 @@ class _AdminPanelState extends State<AdminPanel> {
       print(response.data);
 
       setState(() {
-        totalPages = response.data["totalPages"]==0 ? 1 :  response.data["totalPages"];
+        totalPages = response.data["data"]["totalPages"]==0 ? 1 :  response.data["data"]["totalPages"];
 
       });
-      return response.data["data"].toList();
+      return response.data["data"]["data"].toList();
     }
     else {
       print(response.data);
