@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709561051398",
+    "project_id": "sbf-android",
+    "storage_bucket": "sbf-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709561051398:android:940c37a2c2c5d0b2ef5687",
+        "android_client_info": {
+          "package_name": "com.mobile.sbf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709561051398-1g8piujhl5tq717hp38890lhk15eot6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.sbf",
+            "certificate_hash": "cc6ddacc7eb49307ca302b4c9cb61466b1d5008e"
+          }
+        },
+        {
+          "client_id": "709561051398-qjvm211ahu43bgi3i2246hr31bntivie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.sbf",
+            "certificate_hash": "2b0a282f4de9f5a585c1bac38c0a61821217305b"
+          }
+        },
+        {
+          "client_id": "709561051398-vjft9155fjd8jr8878r363qaafdsv69o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7LBRDXXnT5BQGaeffal18c5yXKTcxkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709561051398-vjft9155fjd8jr8878r363qaafdsv69o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
