@@ -42,7 +42,7 @@ class _LoginScreenState extends State<LoginScreen> {
     }
 
     final payload = {
-      'identifier': _identifier.text,
+      'email': _identifier.text,
       'password': _password.text,
     };
 
