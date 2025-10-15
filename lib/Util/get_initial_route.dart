@@ -8,7 +8,6 @@ import 'package:sbf_mobile_app/preferences/preferences.dart';
 
 Widget getInitialRoute(){
   String token = SessionManager.getString(Constant.access_token);
-
   if(token==''){
     return const Home();
   }

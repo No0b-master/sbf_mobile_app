@@ -24,9 +24,7 @@ class MyApp extends StatelessWidget {
  return MaterialApp(
       title: 'SBF India',
       theme: ThemeData(
-        // textTheme: GoogleFonts.laBelleAuroreTextTheme(textTheme).copyWith(
-        //   bodyMedium: GoogleFonts.actor(textStyle: textTheme.bodyLarge),
-        // ),
+
         primarySwatch: Colors.blue,
       ),
       home: getInitialRoute(),

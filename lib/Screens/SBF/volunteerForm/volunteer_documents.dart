@@ -65,7 +65,6 @@ class _VolunteerDocumentsState extends State<VolunteerDocuments> {
                      Row(
                        children: [
                          fileUploadField(name: 'character_certificate', label: "Character Certificate ", context: context),
-//$2b$10$jfGmsJkxuSpsuK2hbW7uL.ET2WcbIsGbKYsZSzLt2e4ZoZhOK6e06
                        ],
                      ),
                      const SizedBox(height: 40),
